@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WPFThemes.7/1.0.0": {
+        "runtime": {
+          "WPFThemes.7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFThemes.7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
